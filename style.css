@@ -4,7 +4,7 @@ body {
 
 .cabeçalho {
  margin-bottom: 0px;
- background-color: black;
+ background-color: rgb(66, 225, 230);
  color: blueviolet;
  display: flex;
  justify-content: space-around;
